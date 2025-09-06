@@ -30,8 +30,8 @@ Below is a summary of the dataset’s structure:
 | rating	| Rating	|FLOAT(2, 1) |
 # Planned Analyses Overview
 1. Product Analysis
-  * This analysis explores the distribution and behavior of different product lines to determine which categories are excelling and which may be underperforming. Insights gained will help identify opportunities for product optimization and strategic inventory adjustments.
+   * This analysis explores the distribution and behavior of different product lines to determine which categories are excelling and which may be underperforming. Insights gained will help identify opportunities for product optimization and strategic inventory adjustments.
 2. Sales Analysis
-  * This analysis explores the distribution and behavior of different product lines to determine which categories are excelling and which may be underperforming. Insights gained will help identify opportunities for product optimization and strategic inventory adjustments.
+   * This analysis explores the distribution and behavior of different product lines to determine which categories are excelling and which may be underperforming. Insights gained will help identify opportunities for product optimization and strategic inventory adjustments.
 3. Customer Analysis
    * The goal of this analysis is to classify customer groups based on purchasing behavior, frequency, and profitability. By segmenting the customer base, we can tailor marketing and service efforts to enhance customer satisfaction and maximize profitability across all segments.
